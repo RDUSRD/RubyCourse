@@ -1,3 +1,4 @@
+=begin
 #Practicando Imprimir los primeros codigos
 
     #Con este comando puts, se imprime como un print, pero al final tiene un \n automatico
@@ -53,4 +54,24 @@
     #On keys you can do ':key' to name a key before value
 #Methods on ruby
     #Found on https://ruby-doc.org/core-2.6/Method.html
+#Return statement on methods
+    #When we wanna return something in a method we can just put the code at last line of the block of code
+    def cube(num)
+        num*num*num
+    end
+    #like this, the method will return de last line of code there, which is the cube code.
+    #But there is other form to return something
+    def cube(num)
+        return num*num*num
+        puts "Hola"
+    end
+    #In this code, the return statement is in the first line of code of the method, this means that the line to be returned is the that one
+    #When we use the "return" special word, we say to the method to return that line and end de block instantly, so be carefully.
+
+#Control of expressions statement
+    #Found on https://docs.ruby-lang.org/en/2.4.0/syntax/control_expressions_rdoc.html
+    #this means the if, loops and more in ruby
 #
+
+
+=end
