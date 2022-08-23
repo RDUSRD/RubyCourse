@@ -95,5 +95,7 @@
 
     also, when we are handling errors, we should find the especific error to not catch every error in ruby and be more
     specific when you are attending to say to user what error he have.
-
+#Class class
+    Found on https://ruby-doc.org/core-2.5.3/Class.html
+    About classes and object https://www.tutorialspoint.com/ruby/ruby_classes.htm
 =end
