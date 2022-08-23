@@ -47,3 +47,10 @@
 
 #Arrays methods
     #found on https://ruby-doc.org/core-3.1.0/Array.html
+#Hashes methods/ also called dictionary
+    #found on https://ruby-doc.org/core-3.1.2/Hash.html
+    #you can only do unique keys
+    #On keys you can do ':key' to name a key before value
+#Methods on ruby
+    #Found on https://ruby-doc.org/core-2.6/Method.html
+#
