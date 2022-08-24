@@ -97,5 +97,13 @@
     specific when you are attending to say to user what error he have.
 #Class class
     Found on https://ruby-doc.org/core-2.5.3/Class.html
-    About classes and object https://www.tutorialspoint.com/ruby/ruby_classes.htm
+    About classes and object https://www.tutorialspoint.com/ruby/ruby_classes.html
+#inheritance on classes
+    Found on https://www.geeksforgeeks.org/ruby-inheritance/
+    Basically is the same as python, the only difference is the sintax that you use.
+#Modules
+    Found on https://ruby-doc.org/core-2.5.0/Module.html
+
+#Interactive ruby code
+    #Is a console that you can active in the powershell tipying irb, is used for run code at the moment, without having a ruby file
 =end
